@@ -1,0 +1,6 @@
+C:\P11019\SnakeCSharp\SnakeCSharp\bin\Release\SnakeCSharp.exe.config
+C:\P11019\SnakeCSharp\SnakeCSharp\bin\Release\SnakeCSharp.exe
+C:\P11019\SnakeCSharp\SnakeCSharp\bin\Release\SnakeCSharp.pdb
+C:\P11019\SnakeCSharp\SnakeCSharp\obj\Release\SnakeCSharp.csproj.CoreCompileInputs.cache
+C:\P11019\SnakeCSharp\SnakeCSharp\obj\Release\SnakeCSharp.exe
+C:\P11019\SnakeCSharp\SnakeCSharp\obj\Release\SnakeCSharp.pdb
